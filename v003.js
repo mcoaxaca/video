@@ -16,7 +16,7 @@ var myObject = {
         "metaDataDesignerURL": "https://hihello.monster/luisangelmaciel",
         "metaDataLicense": "GNU GPL 3.0",
         "metaDataLicenseURL": "https://www.gnu.org/licenses/gpl-3.0.html",
-        "imgSgv": "/img/faq.sgv",
+        "imgSgv": "/m/img/faq.sgv",
         "hrefDemoGlyphs": "https://hihello.monster/glyphs/animales/demo.html",
     }, {
         "mapaDeSitio": "Gliphys",
